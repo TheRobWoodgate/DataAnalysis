@@ -1,7 +1,10 @@
 ﻿Stage,Water (ML),Operation
-Scheme,429396,East Barron - Industrial
-Operation,44416.806,East Barron - Industrial
-Type,102.741,East Barron - Industrial
-Scheme,429396,East Barron - Irrigation
-Operation,44416.806,East Barron - Irrigation
-Type,2988.092,East Barron - Irrigation
+Scheme,429396,Mareeba Dimbulah
+Operation,0,Mareeba Dimbulah
+Type,0,Mareeba Dimbulah
+Scheme,0,Arriga
+Operation,24408.499,Arriga
+Type,24408.499,Arriga
+Scheme,0,Atherton Creek
+Operation,24611.726,Atherton Creek
+Type,0,Atherton Creek
