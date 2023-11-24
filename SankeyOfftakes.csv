@@ -1,97 +1,97 @@
 ﻿Source,Target,Value
-Burnett and Lower Mary,Barker Barambah,0.510
-Burnett and Lower Mary,Boyne River & Tarong,0.230
-Burnett and Lower Mary,Bundaberg,8.650
-Burnett and Lower Mary,Lower Mary River,0.480
-Burnett and Lower Mary,Three Moon Creek,0.560
-Burnett and Lower Mary,Upper Burnett Supply,1.600
-Central,Callide Valley,0.758
-Central,Dawson Valley,2.352
-Central,Eton,0.021
-Central,Lower Fitzroy,0.031
-Central,Nogoa Mackenzie,4.069
-North,Bowen Broken,0.369
-North,Burdekin Haughton,22.184
-North,Julius,0.199
-North,Mareeba Dimbulah,8.479
-North,Pioneer River,1.705
-North,Proserpine,1.384
-South,Chinchilla Weir,0.156
-South,Cunnamulla,0.113
-South,Macintyre Brook,0.255
-South,Non-scheme,1.063
-South,St George,1.491
-South,Upper Condamine Supply,0.491
-N/A,Eungella Water PL (External),0.786
-N/A,Maranoa River,0.000
-N/A,#N/A,42.077
-Barker Barambah,Barker Bar River,0.510
-Boyne River & Tarong,Boyne River,0.067
-Boyne River & Tarong,Tarong Pipe,0.163
-Bundaberg,A C River,1.113
-Bundaberg,Abbotsford System,0.026
-Bundaberg,Fred Haigh River,0.001
-Bundaberg,Gin Gin Main Channel,0.021
-Bundaberg,Gin Gin/Bingerra Sys,1.662
-Bundaberg,Gooburrum System,1.468
-Bundaberg,Isis System,2.305
-Bundaberg,Kolan B & Bucca WR,0.408
-Bundaberg,Woongarra System,1.642
-Lower Mary River,Lower Mary R Barrage,0.062
-Lower Mary River,Main Roads Channel,0.069
-Lower Mary River,Owanyilla Channel,0.021
-Lower Mary River,Tinana Creek,0.138
-Lower Mary River,Walker Point Channel,0.189
-Three Moon Creek,Three Mn Ck River,0.558
-Upper Burnett Supply,Upper Burnett River,1.600
-Callide Valley,Callide Benefit Area,0.711
-Callide Valley,Callide Dam Hdworks,0.047
-Dawson Valley,Dawson Hwks,0.112
-Dawson Valley,Dawson River,2.241
-Eton,Eton Hwks,0.014
-Eton,Eton River -M&P,0.007
-Lower Fitzroy,Fitzroy River,0.023
-Lower Fitzroy,Stanwell Pipe,0.008
-Nogoa Mackenzie,Blackwater Pipe,0.342
-Nogoa Mackenzie,Gregory Offtakes,0.008
-Nogoa Mackenzie,Nogoa Hwks,0.294
-Nogoa Mackenzie,Nogoa River,3.259
-Nogoa Mackenzie,Oakey Creek Offtakes,0.004
-Nogoa Mackenzie,Saraji Pipe Offtakes,0.163
-Bowen Broken,Bowen River,0.019
-Bowen Broken,Collinsville Pipe,0.336
-Bowen Broken,Eungella Offtakes,0.007
-Bowen Broken,Gattonvale,0.000
-Bowen Broken,Newlands Offtakes,0.007
-Burdekin Haughton,Barratta System,6.517
-Burdekin Haughton,Burd Moran Pipe,0.006
-Burdekin Haughton,Burdekin River,2.470
-Burdekin Haughton,Clare System,1.606
-Burdekin Haughton,Dalbeg System,0.518
-Burdekin Haughton,Elliot Sys (L'Hardt),1.038
-Burdekin Haughton,Elliot Sys(L'Rdt)Drn,0.034
-Burdekin Haughton,Giru Benefitted Area,2.299
-Burdekin Haughton,Haughton Mc & Pstns,0.321
-Burdekin Haughton,Haughton System,5.830
-Burdekin Haughton,Haughton Systm Drain,0.054
-Burdekin Haughton,Millaroo System,1.491
-Julius,Julius Dam Hwks,0.199
-Mareeba Dimbulah,Chnl & Supp Dist,7.512
-Mareeba Dimbulah,Mareeba Distr Pooled,0.002
-Mareeba Dimbulah,Mba River (Brrn),0.486
-Mareeba Dimbulah,Mba Town & Waste,0.001
-Mareeba Dimbulah,Relift Ch Dist-Paddy,0.339
-Mareeba Dimbulah,Relift Ch Dist-Price,0.141
-Pioneer River,Pioneer Hwks,1.705
-Proserpine,Proserpine River,1.384
-Chinchilla Weir,Chinchilla River,0.156
-Cunnmulla,Cunnmulla River,0.113
-Macintyre Brook,Macintyre River,0.255
-Non-Scheme,Dumaresq - DRIP,0.978
-Non-Scheme,Newlands Pipe,0.085
-St George,St George River,1.491
-Upper Condamine Supply,Condamine River,0.334
-Upper Condamine Supply,North Branch,0.157
-Eungella Water PL (External),Eungella Company,0.786
-Maranoa River,Maranoa River,0.000
-#N/A,#N/A,42.077
+Burnett and Lower Mary,Barker Barambah,0.00510
+Burnett and Lower Mary,Boyne River & Tarong,0.00230
+Burnett and Lower Mary,Bundaberg,0.08650
+Burnett and Lower Mary,Lower Mary River,0.00480
+Burnett and Lower Mary,Three Moon Creek,0.00560
+Burnett and Lower Mary,Upper Burnett Supply,0.01600
+Central,Callide Valley,0.00758
+Central,Dawson Valley,0.02352
+Central,Eton,0.00021
+Central,Lower Fitzroy,0.00031
+Central,Nogoa Mackenzie,0.04069
+North,Bowen Broken,0.00369
+North,Burdekin Haughton,0.22184
+North,Julius,0.00199
+North,Mareeba Dimbulah,0.08479
+North,Pioneer River,0.01705
+North,Proserpine,0.01384
+South,Chinchilla Weir,0.00156
+South,Cunnamulla,0.00113
+South,Macintyre Brook,0.00255
+South,Non-scheme,0.01063
+South,St George,0.01491
+South,Upper Condamine Supply,0.00491
+N/A,Eungella Water PL (External),0.00786
+N/A,Maranoa River,0.00000
+N/A,#N/A,0.42077
+Barker Barambah,Barker Bar River,0.00510
+Boyne River & Tarong,Boyne River,0.00067
+Boyne River & Tarong,Tarong Pipe,0.00163
+Bundaberg,A C River,0.01113
+Bundaberg,Abbotsford System,0.00026
+Bundaberg,Fred Haigh River,0.00001
+Bundaberg,Gin Gin Main Channel,0.00021
+Bundaberg,Gin Gin/Bingerra Sys,0.01662
+Bundaberg,Gooburrum System,0.01468
+Bundaberg,Isis System,0.02305
+Bundaberg,Kolan B & Bucca WR,0.00408
+Bundaberg,Woongarra System,0.01642
+Lower Mary River,Lower Mary R Barrage,0.00062
+Lower Mary River,Main Roads Channel,0.00069
+Lower Mary River,Owanyilla Channel,0.00021
+Lower Mary River,Tinana Creek,0.00138
+Lower Mary River,Walker Point Channel,0.00189
+Three Moon Creek,Three Mn Ck River,0.00558
+Upper Burnett Supply,Upper Burnett River,0.01600
+Callide Valley,Callide Benefit Area,0.00711
+Callide Valley,Callide Dam Hdworks,0.00047
+Dawson Valley,Dawson Hwks,0.00112
+Dawson Valley,Dawson River,0.02241
+Eton,Eton Hwks,0.00014
+Eton,Eton River -M&P,0.00007
+Lower Fitzroy,Fitzroy River,0.00023
+Lower Fitzroy,Stanwell Pipe,0.00008
+Nogoa Mackenzie,Blackwater Pipe,0.00342
+Nogoa Mackenzie,Gregory Offtakes,0.00008
+Nogoa Mackenzie,Nogoa Hwks,0.00294
+Nogoa Mackenzie,Nogoa River,0.03259
+Nogoa Mackenzie,Oakey Creek Offtakes,0.00004
+Nogoa Mackenzie,Saraji Pipe Offtakes,0.00163
+Bowen Broken,Bowen River,0.00019
+Bowen Broken,Collinsville Pipe,0.00336
+Bowen Broken,Eungella Offtakes,0.00007
+Bowen Broken,Gattonvale,0.00000
+Bowen Broken,Newlands Offtakes,0.00007
+Burdekin Haughton,Barratta System,0.06517
+Burdekin Haughton,Burd Moran Pipe,0.00006
+Burdekin Haughton,Burdekin River,0.02470
+Burdekin Haughton,Clare System,0.01606
+Burdekin Haughton,Dalbeg System,0.00518
+Burdekin Haughton,Elliot Sys (L'Hardt),0.01038
+Burdekin Haughton,Elliot Sys(L'Rdt)Drn,0.00034
+Burdekin Haughton,Giru Benefitted Area,0.02299
+Burdekin Haughton,Haughton Mc & Pstns,0.00321
+Burdekin Haughton,Haughton System,0.05830
+Burdekin Haughton,Haughton Systm Drain,0.00054
+Burdekin Haughton,Millaroo System,0.01491
+Julius,Julius Dam Hwks,0.00199
+Mareeba Dimbulah,Chnl & Supp Dist,0.07512
+Mareeba Dimbulah,Mareeba Distr Pooled,0.00002
+Mareeba Dimbulah,Mba River (Brrn),0.00486
+Mareeba Dimbulah,Mba Town & Waste,0.00001
+Mareeba Dimbulah,Relift Ch Dist-Paddy,0.00339
+Mareeba Dimbulah,Relift Ch Dist-Price,0.00141
+Pioneer River,Pioneer Hwks,0.01705
+Proserpine,Proserpine River,0.01384
+Chinchilla Weir,Chinchilla River,0.00156
+Cunnmulla,Cunnmulla River,0.00113
+Macintyre Brook,Macintyre River,0.00255
+Non-Scheme,Dumaresq - DRIP,0.00978
+Non-Scheme,Newlands Pipe,0.00085
+St George,St George River,0.01491
+Upper Condamine Supply,Condamine River,0.00334
+Upper Condamine Supply,North Branch,0.00157
+Eungella Water PL (External),Eungella Company,0.00786
+Maranoa River,Maranoa River,0.00000
+#N/A,#N/A,0.42077
