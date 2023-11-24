@@ -22,9 +22,9 @@ South,Macintyre Brook,0.00255
 South,Non-scheme,0.01063
 South,St George,0.01491
 South,Upper Condamine Supply,0.00491
-N/A,Eungella Water PL (External),0.00786
-N/A,Maranoa River,0.00000
-N/A,#N/A,0.42077
+No Region,Eungella Water PL (External),0.00786
+No Region,Maranoa River,0.00000
+No Region,No Scheme,0.42077
 Barker Barambah,Barker Bar River,0.00510
 Boyne River & Tarong,Boyne River,0.00067
 Boyne River & Tarong,Tarong Pipe,0.00163
@@ -94,4 +94,4 @@ Upper Condamine Supply,Condamine River,0.00334
 Upper Condamine Supply,North Branch,0.00157
 Eungella Water PL (External),Eungella Company,0.00786
 Maranoa River,Maranoa River,0.00000
-#N/A,#N/A,0.42077
+No Scheme,No Profit Centre,0.42077
