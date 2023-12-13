@@ -81,7 +81,7 @@
 530016842,23BI12-Replace Meters Isis Dist],IRRIGATION,Corrective Maintenance Order,4,ISIS,BUSINESS SEGMENT,Maintenance,CLSD,AM Long Term Planning - South,EDWARDS Nickolas,BLM,13002.88,70684.55,66.8,87.4
 530016856,23BU08-Replace Meters Burnett River],BULK_WATER,Corrective Maintenance Order,4,BURNETT RIVER METER OUTLETS,METER HEADER,Maintenance,CLSD,AM Long Term Planning - South,EDWARDS Nickolas,BLM,41276.14,71833.44,119.8,36.2
 530016899,23UB13-Replace Meters Upper Burnett],BULK_WATER,Corrective Maintenance Order,4,UPPER BURNETT RIVER OFFTAKES,METER HEADER,Maintenance,CLSD,AM Long Term Planning - South,EDWARDS Nickolas,BLM,27167.11,43368.69,132.8,50.5
-510008668,21BDK09|STUDY: FAILURE IMPACT ASMT],BULK_WATER,Preventative Maintenance Order,4,CLARE WEIR 50.3KM,WEIRS,Dam Safety,CLSD,AM Long Term Planning - North,ELPHINSTONE Aaron,DO NOT USE T'ville,16529.32,6173.74,8.5,18.5
+510008668,21BDK09|STUDY: FAILURE IMPACT ASMT],BULK_WATER,Preventative Maintenance Order,4,CLARE WEIR 50.3KM,WEIRS,Dam Safety,CLSD,AM Long Term Planning - North,ELPHINSTONE Aaron,DO NOT USE Tville,16529.32,6173.74,8.5,18.5
 530009023,21NWP14|Relocate SCADA & PSTN controls],PIPELINE,Corrective Maintenance Order,4,"TELEMETRY SYSTEMS, NORTH WEST PIPELINE",ELECTRICAL EQUIPMENT,Maintenance,CLSD,AM Long Term Planning - North,ELPHINSTONE Aaron,Mareeba,-404.04,16316.28,43.5,80
 530016796,"WP-Replace Batteries,Surge Tank, Offtake",PIPELINE,Corrective Maintenance Order,3,PIPELINES,PIPES / PIPELINES,Maintenance,CLSD,CSG Pipelines Op Maintainer,EVANS Nicholis,Goondiwindi,16568.48,15456.53,8,8
 530016750,CHW Replace Gauging Station SB,BULK_WATER,Corrective Maintenance Order,4,422358B CHINCHILLA WEIR HW,GAUGING STATION,Maintenance,CLSD,Chinchilla Weir Electrical,EVANS Nicholis,Goondiwindi,4134.96,1890.77,8.5,8
@@ -1072,7 +1072,7 @@
 520021812,RC-6M-OP-AUDIT WORK AT HEIGHT-BMD,RESOURCE_CENTRE,Operations Order,7,BEARDMORE DAM BUILDINGS,BUILD/HOUSES HEADER,Operational,CLSD,St George Op Maintainer,Not assigned,Goondiwindi,54,108,1,2
 520021816,RC-6M-OP-AUDIT WORK AT HEIGHT-PIT,RESOURCE_CENTRE,Operations Order,7,PITTSWORTH BUILDINGS,BUILD/HOUSES HEADER,Operational,CLSD,Upper Condamine Op Maintainer,Not assigned,Goondiwindi,56,108,1,2
 520022788,RC-3M-AUDIT PPE HEAT DEPOT-GDW,RESOURCE_CENTRE,Operations Order,3,GOONDIWINDI BUILDINGS,BUILD/HOUSES HEADER,Operational,CLSD,Goondiwindi,Not assigned,Goondiwindi,56,132,1,2
-510016655,RC-3M-EL-TST WELD-TSV,RESOURCE_CENTRE,Preventative Maintenance Order,3,TOWNSVILLE RC ASSETS,BUILD/HOUSES/ACCOM,Legislative Inspectns-WH&S,CLSD,(Do Not Use) Townsville Electrical,Not assigned,DO NOT USE T'ville,147,57,1,1
+510016655,RC-3M-EL-TST WELD-TSV,RESOURCE_CENTRE,Preventative Maintenance Order,3,TOWNSVILLE RC ASSETS,BUILD/HOUSES/ACCOM,Legislative Inspectns-WH&S,CLSD,(Do Not Use) Townsville Electrical,Not assigned,DO NOT USE Tville,147,57,1,1
 510017863,RC-1M-AN-TST EMG SHW & EYE-MILL,RESOURCE_CENTRE,Preventative Maintenance Order,3,MILLAROO DEPOT,BUILD/HOUSES/ACCOM,Maintenance,CLSD,Burdekin Operator,Not assigned,Clare,54,52,1,1
 510018465,MR-3M-CO-SVC AIR CON-PSTNPCA,IRRIGATION,Preventative Maintenance Order,3,CONTROL BUILDING,BUILD/HOUSES/ACCOM,Maintenance,CLSD,Mareeba Electrical,Not assigned,Mareeba,177.23,354.47,1,2
 510018466,MR-3M-CO-SVC AIR CON-PSTNPCB,IRRIGATION,Preventative Maintenance Order,3,PUMP STATION BUILDING,BUILD/HOUSES/ACCOM,Maintenance,CLSD,Mareeba Electrical,Not assigned,Mareeba,177.23,354.47,1,2
@@ -5230,7 +5230,7 @@
 510024213,MR-6M-ME-INSP-MTWS,IRRIGATION,Preventative Maintenance Order,3,TOWN WATER SUPPLY @ MUTCHILBA,TOWNSHIP SERVICES,Maintenance,CLSD,Mareeba Mechanical,Not assigned,Mareeba,1081.43,4412.09,6.25,25.5
 510020538,LO-1M-OP-SYSTEM INSP-CHB,IRRIGATION,Preventative Maintenance Order,3,COPENHAGEN BEND SYSTEM,WATER DIST SYSTEM,Maintenance,CLSD,BLM Distribution OP Maintainer,Not assigned,BLM,1088.96,2273.68,6.25,14.5
 510023756,LO-1M-OP-SYSTEM INSP-MRS,IRRIGATION,Preventative Maintenance Order,3,MAIN ROADS SYSTEM,WATER DIST SYSTEM,Maintenance,CLSD,BLM Distribution OP Maintainer,Not assigned,BLM,1089.65,1251.66,6.25,8
-510014671,BD-12M-CO-INSP FEX-CLW,BULK_WATER,Preventative Maintenance Order,3,CLARE WEIR 50.3KM,WEIRS,Legislative Inspectns-WH&S,CLSD,(Do Not Use) Burdekin Falls OP Maintain,Not assigned,DO NOT USE T'ville,2703.06,2653.93,6.25,4
+510014671,BD-12M-CO-INSP FEX-CLW,BULK_WATER,Preventative Maintenance Order,3,CLARE WEIR 50.3KM,WEIRS,Legislative Inspectns-WH&S,CLSD,(Do Not Use) Burdekin Falls OP Maintain,Not assigned,DO NOT USE Tville,2703.06,2653.93,6.25,4
 510018790,BR-1M-OP-WEIR SVL-BOG,BULK_WATER,Preventative Maintenance Order,3,BOGGABILLA WEIR,WEIRS,Maintenance,CLSD,Goondiwindi Op Maintainer,Not assigned,Goondiwindi,1216.39,2742.39,6.25,15
 520017883,RC-1Y-OP-ASSET & WORK MGNT-TSV,RESOURCE_CENTRE,Operations Order,7,TOWNSVILLE RC ASSETS,BUILD/HOUSES/ACCOM,Operational,CLSD,Townsville Mechanical,Not assigned,Clare,429,6510,6.5,108.5
 520020430,RC-3M-SFTY-AUDIT DEPOT-MBH(FEB)*,RESOURCE_CENTRE,Operations Order,3,MORANBAH BUILDINGS,BUILD/HOUSES/ACCOM,Operational,CLSD,Moranbah,Not assigned,Moranbah,408,93,6.5,1.5
@@ -5773,7 +5773,7 @@
 530018779,Power point outlet building PAR,BULK_WATER,Corrective Maintenance Order,4,136024A PARADISE DAM,GAUGING STATION,Maintenance,CLSD,Bundaberg Headworks Electrical,Not assigned,BLM,976.68,2137.19,8.25,12
 530022663,Repair pipe leak M15@ 1890M,IRRIGATION,Corrective Maintenance Order,3,PIPELINE 1999.60-2006.80M,HIGH DENSITY POLY,Maintenance,CLSD,Mareeba Civil,Not assigned,Mareeba,2518.58,1410.57,8.25,8
 510022400,BW-1M-OP-INSP HYDRO-PAR,BULK_WATER,Preventative Maintenance Order,3,GENERATION PLANT,HYDRO ELECT SYS(HL),Maintenance,CLSD,Bundaberg Headworks OP Maintainer,Not assigned,BLM,1451.3,849.57,8.25,5
-530017596,CLW - Fit a new seal and dessicant filte,BULK_WATER,Corrective Maintenance Order,4,HYDRAULIC TANK,METAL TANK,Maintenance,CLSD,Burdekin Falls,Not assigned,DO NOT USE T'ville,1596.7,3118.36,8.25,17
+530017596,CLW - Fit a new seal and dessicant filte,BULK_WATER,Corrective Maintenance Order,4,HYDRAULIC TANK,METAL TANK,Maintenance,CLSD,Burdekin Falls,Not assigned,DO NOT USE Tville,1596.7,3118.36,8.25,17
 530018989,Inv/Rep Rising Main Leak Mill A PSTN,IRRIGATION,Corrective Maintenance Order,6,STEEL PIPE,MILD STEEL,Maintenance,CLSD,Burdekin Civil,Not assigned,Clare,18232.16,9080,8.25,0
 520015979,RC-1Y-OP-TRAINING-EUD(21-22),RESOURCE_CENTRE,Operations Order,7,EUNGELLA DAM BUILDING ASSETS,Not assigned,Administration,CLSD,Eungella,Not assigned,Moranbah,501.75,1425,8.25,25
 510022481,LO-1M-OP-SYSTEM INSP-WPS,IRRIGATION,Preventative Maintenance Order,3,WALKER POINT SYSTEM,PIPES / PIPELINES,Maintenance,CLSD,BLM Distribution OP Maintainer,Not assigned,BLM,1486.9,1881.67,8.25,12
